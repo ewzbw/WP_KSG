@@ -1,3 +1,3 @@
 <?php
-	echo 'dot dot dot a a a';// fuck
+	echo 'Qgit';// ubuntu
 ?>
