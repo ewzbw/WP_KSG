@@ -1,3 +1,3 @@
 git test
-cc ts
-tt 2
+ts hehe
+2 hehe
